@@ -7,6 +7,7 @@ This collection is distributed under the SIL OFL v1.1 and the GNU GPL v3, as mos
 To the best of my knowledge these fonts are free to use for any purpose (even commercial)
 
    *** See the OFL file for the SIL Open Font Licence, version 1.1 ***
+   
    *** See the COPYING file for the GNU General Public Licence, version 3 ***
 
 
