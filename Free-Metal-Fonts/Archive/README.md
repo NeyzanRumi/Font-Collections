@@ -1,10 +1,10 @@
 ### FREE METAL FONT COLLECTION ###
 
-This is a collection of rock and metal style free fonts compiled by Neyzan (NeyzanRumi)
+This is a collection of rock and metal style free fonts compiled by Neyzan (NeyzanRumi).
 
-This collection is distributed under the SIL OFL v1.1 and the GNU GPL v3, as most fonts in this collection use one of the two. Individual fonts may have their own separate licenses, contact me for details
+This collection is distributed under the SIL OFL v1.1 and the GNU GPL v3, as most fonts in this collection use one of the two. Individual fonts may have their own separate licenses, contact me for details.
 
-To the best of my knowledge these fonts are free to use for any purpose (even commercial)
+To the best of my knowledge these fonts are free to use for any purpose (even commercial), including but not limited to redistribution, compilation and modification.
 
    *** See the OFL file for the SIL Open Font Licence, version 1.1 ***
    
