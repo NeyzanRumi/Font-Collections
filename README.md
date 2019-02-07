@@ -1,6 +1,6 @@
 ### FREE METAL FONT COLLECTION ###
 
-This is a collection of rock and metal style fonts created by Neyzan (NeyzanRumi)
+This is a collection of rock and metal style free fonts compiled by Neyzan (NeyzanRumi)
 
 This collection is distributed under the SIL OFL v1.1 and the GNU GPL v3, as most fonts in this collection use one of the two. Individual fonts may have their own separate licenses, contact me for details
 
